@@ -1,0 +1,23 @@
+<header>
+<link rel="stylesheet" type="text/css" href="https://cdn.statically.io/gh/vyantagc/videoken/a707b956/btn.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.css" integrity="sha256-kgOoigZTP1lSBr7QDdEQ4mcwFAi0pvmCcvfcnRYHicc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.js" integrity="sha256-rr6XKdaA3InL/R1iKt/B+un4oU/c23+5Rxubx7qO5ts=" crossorigin="anonymous"></script>
+<script src="https://cdn.statically.io/gh/vyantagc/videoken/e7da5675/vbtn-alternative-mp3.js"></script>
+</header>
+<div class="d-block"align="center">
+	<h3>Click button to download :</h3>
+	<br>
+	<div class='d-block px-2' align='center'>
+		<label>Server 1:</label><br/>
+		<a rel='nofollow noreferrer' href='https://bit.ly/2yIQIDK' class="btn btn-success mb-4" target='_blank'><b class='h4'>✓ Download MP3</b></a>
+		<br/>
+		<label>Server 2:</label><br/>
+	</div>
+	<div id="download_area" style="overflow: hidden; height: 60px !important;" align="center">
+		<!-- Tombol download muncul di sini -->
+	</div>
+</div>
+
+
+
